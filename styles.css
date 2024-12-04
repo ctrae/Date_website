@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(185, 5, 185);
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    justify-items: center;
+}
+
+#img{
+    width: 100%;
+    height: 40vh;
+}
+
+h1,p{
+    padding: 10px;
+    margin: 0;
+}
+
+#container{
+    position: relative;
+    width: 60%;
+    justify-self: center;
+    justify-items: center;
+}
+
+form{
+    display: inline;
+    width: 100%;
+}
+input{
+    background-color: rgb(243, 114, 243);
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    border: solid black 1px;
+}
+
+ #No{
+    background-color: rgb(243, 114, 243);
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    border: solid black 1px;
+ }
